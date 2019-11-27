@@ -1,0 +1,8 @@
+1. e4
+	-1. ... c6 (Caro-Kann Defense)
+		-2. d4
+			-2. ... d5
+				-3. exd5 (Exchange Variation)
+					-3. ... cxd5 
+						-4. Nc3 (not main)
+							-4. ... Nf6
